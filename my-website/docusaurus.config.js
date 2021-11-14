@@ -9,12 +9,12 @@ const config = {
   title: 'Virtual Pen',
   tagline: 'Turn your pen to a digital one!',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Hackers', // Usually your GitHub org/user name.
+  projectName: 'VirtualPen', // Usually your repo name.
 
   presets: [
     [
